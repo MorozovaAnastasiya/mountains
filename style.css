@@ -124,7 +124,7 @@ h4 {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
-  font-size: calc(18px + (22 - 18) * (100vw - 320px) / (1530 - 320));
+  font-size: calc(20px + (22 - 20) * (100vw - 320px) / (1530 - 320));
   line-height: 140%;
 }
 
@@ -327,7 +327,7 @@ div.everest__header_tel-icons a:nth-child(2) {
   margin-top: 25px;
   line-height: 27px;
   font-size: 18px;
-  font-size: calc(13px + (18 - 13) * (100vw - 320px) / (1530 - 320));
+  font-size: calc(14px + (18 - 14) * (100vw - 320px) / (1530 - 320));
   color: #061b28;
 }
 
@@ -722,7 +722,7 @@ table td:first-child {
 }
 
 .blog__content_article_p-content {
-  font-size: calc(12px + (16 - 12) * (100vw - 320px) / (1530 - 320));
+  font-size: calc(14px + (16 - 14) * (100vw - 320px) / (1530 - 320));
   line-height: 150%;
   margin-top: 5%;
 }

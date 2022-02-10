@@ -1,2 +1,1 @@
-# mountains
-landing page
+https://morozovaanastasiya.github.io/mountains/
